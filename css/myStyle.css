@@ -3,175 +3,175 @@
 /* =================================== */
 
 a {
-    color: #008000 !important;
+  color: #008000 !important;
 }
 
-    a.btn.btn-blue.btn-effect {
-        color: #80ff80 !important;
-    }
+a.btn.btn-blue.btn-effect {
+  color: #80ff80 !important;
+}
 
 #navigation {
-    background-color: rgba(255, 255, 255,.8)
+  background-color: rgba(255, 255, 255, 0.8);
 }
 
 #nav-arrows > a {
-    color:aliceblue!important;
+  color: aliceblue !important;
 }
 
 .navbar-inverse .navbar-nav > li > a {
-    font-size: 20px;
-    color: #0f3e0f !important;
-    font-weight: 700;   
-    font-family: 'Oswald', sans-serif;
-    text-shadow: 1px 2px #c2c2a3;
+  font-size: 20px;
+  color: #0f3e0f !important;
+  font-weight: 700;
+  font-family: 'Oswald', sans-serif;
+  text-shadow: 1px 2px #c2c2a3;
 }
 
-  .navbar-inverse .navbar-nav > li > a:hover {
-        color: #00b300 !important;
-        border-bottom-style: outset;
-        border-bottom-color: #00cc00;
-        border-bottom-width: 4px;
-    }
+.navbar-inverse .navbar-nav > li > a:hover {
+  color: #00b300 !important;
+  border-bottom-style: outset;
+  border-bottom-color: #00cc00;
+  border-bottom-width: 4px;
+}
 
 .icon-bar {
-    background-color:darkgreen !important;
+  background-color: darkgreen !important;
 }
 
 #logo {
-    width: 90px;
-    height: 60px;
-    margin-top: -20px;
+  width: 90px;
+  height: 60px;
+  margin-top: -20px;
 }
 
 #ecoLogo {
-    width:120px;
-    height:120px;
-    margin-top:38px !important;
+  width: 120px;
+  height: 120px;
+  margin-top: 38px !important;
 }
 
 .name {
-    
-    font-family: 'Baloo', cursive;
-    color: #00cc00 !important;
-    text-shadow: 1px 2px #e6ffe6;
-    margin-top:88px;
+  font-family: 'Baloo', cursive !important;
+  color: #00cc00 !important;
+  text-shadow: 1px 2px #e6ffe6;
+  margin-top: 88px;
 }
 
 .cont {
-    color: #008000 !important;
+  color: #008000 !important;
 }
 
 .slogan {
-    color: #99ff99 !important;
-    font-weight: bold;
-    text-shadow: 1px 2px #004d00;
+  color: #99ff99 !important;
+  font-weight: bold;
+  text-shadow: 1px 2px #004d00;
 }
 
 .header2 {
-    font-family: 'Shrikhand', cursive;
-    color: #00cc00 !important;
-    text-shadow: 1px 2px #e6ffe6;
+  font-family: 'Shrikhand', cursive !important;
+  color: #00cc00 !important;
+  text-shadow: 1px 2px #e6ffe6;
 }
 
 .header3 {
-    font-family: 'Righteous', cursive;
-    color: #00cc00 !important;
-    text-shadow: 1px 2px #e6ffe6;
+  font-family: 'Righteous', cursive !important;
+  color: #00cc00 !important;
+  text-shadow: 1px 2px #e6ffe6;
 }
 
 .slogan2 {
-    color: #009900 !important;
-    font-weight: bold;
-    text-shadow: 1px 2px #e6ffe6;
-    padding-top: 30px;
-    margin: 0 40px;
+  color: #009900 !important;
+  font-weight: bold;
+  text-shadow: 1px 2px #e6ffe6;
+  padding-top: 30px;
+  margin: 0 40px;
 }
 
 .slogan3 {
-    color: #ccffcc !important;
-    font-weight: bold;
-    text-shadow: 1px 2px #004d00;
-    margin: 0 60px;
+  color: #ccffcc !important;
+  font-weight: bold;
+  text-shadow: 1px 2px #004d00;
+  margin: 0 60px;
 }
 
 #secSlogan {
-    margin-bottom:80px;
+  margin-bottom: 80px;
 }
 
 #bestPrices {
-    font-size: 22px;
-    font-weight:bold;
+  font-size: 22px;
+  font-weight: bold;
 }
 
 #dnfLogo {
-    width: 180px;
-    height: 136px;
-    transition: transform .2s;
+  width: 180px;
+  height: 136px;
+  transition: transform 0.2s;
 }
-    #dnfLogo:hover {
-        transform: scale(1.2);
-    }
+#dnfLogo:hover {
+  transform: scale(1.2);
+}
 
 #fiLogo {
-    width: 136px;
-    height: 136px;
-    transition: transform .2s;
+  width: 136px;
+  height: 136px;
+  transition: transform 0.2s;
 }
-    #fiLogo:hover {
-        transform: scale(1.2);
-    }
+#fiLogo:hover {
+  transform: scale(1.2);
+}
 
 #slider {
-    /*width:100vw !important;*/
-    height:100vh !important;
+  /*width:100vw !important;*/
+  height: 100vh !important;
 }
 
 .sectionTitle {
-    font-family: 'Changa One', cursive;
-    text-shadow: 1px 2px #ccffcc;
-} 
+  font-family: 'Changa One', cursive;
+  text-shadow: 1px 2px #ccffcc;
+}
 
 .welcome {
-    font-size: 24px;
-    padding:20px;
+  font-size: 24px;
+  padding: 20px;
 }
 
 .abt {
-    font-size: 20px;
-    font-weight: bold;
+  font-size: 20px;
+  font-weight: bold;
 }
 
-#service, #servicesSection, #contact {
-    color: #003300;
+#service,
+#servicesSection,
+#contact {
+  color: #003300;
 }
 
 .service-item > ul {
-    list-style: none;
+  list-style: none;
 }
 
 #follow {
-    color: #e6ffe6;
-} 
+  color: #e6ffe6;
+}
 
 .social-button li a {
-    
-    border: 2px solid #196719;
-    color: #fff !important;
+  border: 2px solid #196719;
+  color: #fff !important;
 }
 
- .social-button li a:hover {    
-        color: #196719 !important;
-        border: 2px solid #fff;
-    }
+.social-button li a:hover {
+  color: #196719 !important;
+  border: 2px solid #fff;
+}
 
 ul.flex-container {
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around;
-    align-items:center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
 }
-    
+
 #map {
-    width: 100%;
-    height: 400px;
+  width: 100%;
+  height: 400px;
 }
